@@ -1,0 +1,3 @@
+MOV BX, 4
+MOV MOV MOV
+MUL 1, 1

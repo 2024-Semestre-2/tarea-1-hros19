@@ -1,8 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QphBnA5S)
-# [NOMBRE DEL PROYECTO]
-## Integrantes:
-### [Carné] [Nombre]
 
-### Estado del proyecto: Escala de 1 a 5, 1 siendo completo y 5 muy malo
-### Enlace del video: (Si esto fue solicitado)
-Recordar que el video debe ser público y con sonido para ser visto por el profesor
+## Información General
+Instituto Tecnológico de Costa Rica
+Ingeniería en Computadores
+Sistemas operativos
+Tarea 01 - Mini Pc
+Estudiante: Hansol Antay - 2020319635
+
+[![Estado](https://img.shields.io/badge/Estado-Completo-brightgreen)](https://shields.io/)
+[[Url del video](https://youtu.be/RwUs0IEvKNE)] (https://youtu.be/RwUs0IEvKNE)
+
+
+## Requerimientos
+Java 8 o superior
+Jdk 18 o superior
+
+## Instrucciones
+1. Descargar el archivo .zip de este repositorio o clonar el repositorio.
+2. Descomprimir el archivo .zip.
+3. Abrir la terminal y ubicarse en la carpeta donde se descomprimió el archivo.
+4. Ejecutar el siguiente comando para compilar y ejecutar el programa:
+```
+run.bat
+```
+5. Se le pedirá que ingrese la cantidad de memoria total del sistema.
+6. Se le pedirá que ingrese la cantidad de memoria que desea asignar al sistema operativo y al kernel. El resto de la memoria será asignado al usuario.
+7. Se cargará un fileChooser para que seleccione el archivo de texto que contiene las instrucciones a ejecutar.
+8. Se mostrará la información de la memoria, los registros, y el PCB.
+9. Podrá ejecutar paso a paso las instrucciones del .asm para ver cómo cambian los registros y la memoria.
+10. El archivo 'codigomal.asm' contiene un error de sintaxis. El archivo 'test.asm' contiene un código correcto, que servirá para comprobar la funcionalidad del programa.
